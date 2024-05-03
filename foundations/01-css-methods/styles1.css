@@ -1,0 +1,10 @@
+/* styles1.css */
+
+div {
+    color: white;
+    background-color: red;
+    font-family:"serif";
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+}
