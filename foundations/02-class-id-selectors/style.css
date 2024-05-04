@@ -1,0 +1,20 @@
+/* style.css */
+
+.class-selector{
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    background-color: rgb(255, 0, 0, 0.5);
+}
+
+#ID2{
+    font-size:36px;
+    color: #0000FF;
+}
+
+.font-adjust{
+    font-size:24px;
+}
+
+#ID4{
+    background-color: hsl(133, 100%, 56%, .5);
+    font-weight: 700;
+}
